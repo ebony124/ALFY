@@ -4,13 +4,13 @@ Phishing tool
 
 * `apt update`
 * `apt install git curl php openssh -y`
-* `git clone git https://github.com/ebony124/ALFY
-* `cd zphisher`
-#### > Run : `bash zphisher.sh`
+* `git clone https://github.com/ebony124/ALFY
+* `cd alfy`
+#### > Run : `bash alfy.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh -y ; git clone git://github.com/AnuhasChamika/zphisher.git ; cd zphisher ; bash zphisher.sh
+apt update ; apt install git curl php openssh -y ; git clone https://github.com/ebony124/ALFY ; cd alfy ; bash alfy.sh
 ```
 
 
@@ -39,4 +39,4 @@ git hub :- https://github.com/ebony124
 
 FB      :- Alfy N S
 
-Inster  :- w_hi_te_devilzz 
+Insta :- w_hi_te_devilzz 
