@@ -4,7 +4,7 @@ Phishing tool
 
 * `apt update`
 * `apt install git curl php openssh -y`
-* `git clone https://github.com/ebony124/ALFY
+* `git clone https://github.com/ebony124/ALFY`
 * `cd alfy`
 #### > Run : `bash alfy.sh`
 
