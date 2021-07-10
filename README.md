@@ -4,7 +4,8 @@ Phishing tool
 
 * `apt update`
 * `apt install git curl php openssh -y`
-* `git clone git https://github.com/ebony124/ALFY
+* `git clone git https://github.com/ebony124/ALFY`
+
 * `cd zphisher`
 #### > Run : `bash zphisher.sh`
 
